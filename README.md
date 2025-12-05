@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.hdwallpapers.in/yellow_blue_neon_lights_binary_code_hd_binary_code-wallpapers.html" alt="Binary Code Wallpaper" width="500" height="400">
+  <img src="https://www.hdwallpapers.in/thumbs/2022/yellow_blue_neon_lights_binary_code_hd_binary_code-t2.jpg" alt="Binary Code Wallpaper" width="500" height="400">
 </p>
 
 # Hi, I'm Freimy Hidalgo 👋
@@ -44,6 +44,7 @@
 
 ### Development Tools
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
@@ -57,7 +58,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
 💼 Open to cybersecurity opportunities and challenging tech projects  
 🔗 Let's connect and build something amazing together!
 
