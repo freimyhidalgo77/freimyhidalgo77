@@ -65,6 +65,7 @@
 
 ### Operating Systems
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 11" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
