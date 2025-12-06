@@ -44,9 +44,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
 </p>
 
-### Network & Design Tools
+### Design Tools
 <p align="left">
- <img src="https://static.vecta.io/icons/symbols/cisco/network-topology-icons/router.svg" alt="Cisco Packet Tracer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
