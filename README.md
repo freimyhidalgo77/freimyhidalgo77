@@ -12,6 +12,8 @@
 - **Programming** & Software Development
 - **Network** Infrastructure & Administration  
 - **Cybersecurity** 🔐 (My favorite area! ⭐)
+- **Network Design** & Simulation
+- **UI/UX Design** & Prototyping
 
 🌟 **Passionate about technology** and embracing new challenges to solve complex problems. I thrive on innovation and continuous learning in the ever-evolving tech landscape!
 
@@ -42,6 +44,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
 </p>
 
+### Network & Design Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cisco_Packet_Tracer_Icon.png/640px-Cisco_Packet_Tracer_Icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
 ### Development Tools
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
@@ -66,6 +74,7 @@
 </p>
 
 💼 Open to cybersecurity opportunities and challenging tech projects  
+🎨 Passionate about network design and UI/UX prototyping  
 🔗 Let's connect and build something amazing together!
 
 ---
