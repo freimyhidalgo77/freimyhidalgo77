@@ -50,6 +50,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
 </p>
 
+### Cloud & Hosting
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.somee.com/images/somee-logo.png" alt="Somee" width="40" height="40"/>
+</p>
+
+
 ### Design Tools
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
