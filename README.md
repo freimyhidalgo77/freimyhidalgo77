@@ -46,7 +46,7 @@
 
 ### Network & Design Tools
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=66993&format=png&color=000000" alt="Cisco Packet Tracer" width="40" height="40"/>
+ <img src="https://static.vecta.io/icons/symbols/cisco/network-topology-icons/router.svg" alt="Cisco Packet Tracer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
